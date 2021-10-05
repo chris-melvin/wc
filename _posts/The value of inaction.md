@@ -2,7 +2,7 @@
 title: 'The value of inaction'
 excerpt: Sometimes, not doing anything is the best course of action. There are some actions that could cause you more when you do it than when you didn't do it.
 coverImage: '/assets/blog/the-value-of-inaction/the-value-of-inaction.jpg'
-date: '2021-10-04'
+date: '2021-10-03'
 author:
   name: Melvin Factoriza
   picture: '/assets/blog/authors/icon.png'
