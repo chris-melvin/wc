@@ -2,7 +2,7 @@
 title: 'The strength of our emotions'
 excerpt: Most of the time, we know how to handle and react to our emotions. When we feel sad, or happy, we just act accordingly. 
 coverImage: '/assets/blog/the-strength-of-our-emotions/the-strength-of-our-emotions.jpg'
-date: '2021-11-03'
+date: '2021-11-02'
 author:
   name: Melvin Factoriza
   picture: '/assets/blog/authors/icon.png'
