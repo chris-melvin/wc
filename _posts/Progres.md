@@ -2,7 +2,7 @@
 title: 'Progress'
 excerpt: Your growth is not one and done. You don't just practice once then you are good at it. Let's say you are practicing your Spanish. 
 coverImage: '/assets/blog/progress/progress.jpg'
-date: '2021-11-06'
+date: '2021-11-05'
 author:
   name: Melvin Factoriza
   picture: '/assets/blog/authors/icon.png'
